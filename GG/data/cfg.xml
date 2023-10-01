@@ -1,0 +1,20 @@
+<game>
+    <frame title =  "Overcooked" width = "1200" height = "600" size = "6" imgW = "52"  imgH = "52">
+        <layer className="UI.LayerBackground" x = "0" y = "0" w = "1200" h = "600"/>
+        <layer className="UI.LayerSendFood" x = "1064" y = "213" w = "1200" h = "355"/>
+        <layer className="UI.LayerTime" x = "1064" y = "0" w = "1200" h = "71"/>
+        <layer className="UI.LayerPlate" x = "780" y = "497" w = "1064" h = "567"/>
+        <layer className="UI.LayerKnife" x = "284" y = "497" w = "426" h = "567"/>
+        <layer className="UI.LayerFoodList" x = "0" y = "0" w = "89" h = "107"/>
+        <layer className="UI.LayerFood" x = "0" y = "71" w = "89" h = "89"/>
+        <layer className="UI.LayerIngredient" x = "0" y = "213" w = "142" h = "497"/>
+    </frame>
+
+    <system>
+
+    </system>
+
+    <data>
+
+    </data>
+</game>
